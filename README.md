@@ -38,4 +38,4 @@ Pricing Optimization: for pricing prediction (API)
 **Coralie GUILLOTTE* - [CoralieGM](https://github.com/CoralieGM)
 
 ## Acknowledgements
-Thanks to  [Levent](https://github.com/levist7) for his help on this project and to all the Jedha's alumni who inspired me !
+Thanks to  [Levent](https://github.com/levist7) for his help on this project !
